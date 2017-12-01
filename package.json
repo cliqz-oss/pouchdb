@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-monorepo",
-  "version": "6.2.1-prerelease",
+  "version": "6.3.4-security-error-fix-2",
   "homepage": "http://pouchdb.com/",
   "license": "Apache-2.0",
   "private": true,
